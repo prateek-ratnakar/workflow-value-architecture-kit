@@ -1,0 +1,17 @@
+family,step,volume,rule_clarity,data_availability,exception_rate,error_cost,judgment_risk
+O2C,Cash application and remittance matching,5,4,4,2,2,1
+O2C,Deduction validation and dispute resolution,4,3,3,3,3,2
+O2C,Credit limit decision for a new customer,2,2,3,3,5,4
+O2C,Collections dunning and reminders,5,5,4,2,1,1
+R2R,Bank and balance sheet reconciliations,5,4,4,2,2,1
+R2R,Manual journal entry review,3,3,3,3,4,3
+R2R,Intercompany matching and netting,4,4,3,3,3,2
+R2R,Judgmental accruals and provisions,2,2,2,4,5,5
+H2R,Resume screening against role criteria,5,3,4,3,3,4
+H2R,Onboarding document collection,4,5,4,2,2,1
+H2R,Payroll variance investigation,3,3,4,3,4,2
+H2R,Performance rating calibration,2,1,2,4,5,5
+S2P,Invoice three-way match exceptions,5,4,4,3,2,1
+S2P,Supplier onboarding and due diligence,3,3,3,3,4,4
+S2P,Spend classification,5,4,3,2,1,1
+S2P,Contract negotiation strategy,1,1,2,5,5,5
